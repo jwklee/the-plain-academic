@@ -2,11 +2,11 @@
 title:              "The Plain Academic"
 description:        "My academic site"
 author_name:        "Jaewook Lee" # change this to your name
-logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars.githubusercontent.com/u/29397209?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://jwklee.github.io # main url
-baseurl:            /the-plain-academic
+baseurl:            /jwklee.github.io
 permalink:          /:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
