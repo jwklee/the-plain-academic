@@ -19,6 +19,11 @@ kramdown:
 sass:
     style:          :compressed
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: heiswayi/the-plain
+
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
